@@ -14,7 +14,7 @@ NOTE: The 3-phase bridge is not on this board, its on the power board where
 
 # Repair hints
 
-[Found issues in the past] => None
+[Found issues in the past](none) => None
 
 # Utilities used to create the drawings
 

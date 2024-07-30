@@ -36,6 +36,6 @@ Optidrive E2 and P2 PCB assemblies:
 
 * CTRL-12 => [ODE2 CONTROL ISSUE 12](ode2-control-issue-12/readme.md)
 * FLT-5 => [E2/P2 S2 3-ph FILTER ISSUE 5](e2-p2-filter-issue-5/readme.md)
-* HVPWR-8 => [ODE2 S2 HV POWER ISSUE 8](todo.txt) TODO
+* HVPWR-8 => [ODE2 S2 HV POWER ISSUE 8](ode2-hv-power-issue-8/readme.md)
 * TERM-5 => [ODE2 S2 TERMINAL BOARD ISSUE 5](todo.txt) TODO
 * OPTION-7 => [P2 OPTION BOARD ISSUE 7](todo.txt) TODO
