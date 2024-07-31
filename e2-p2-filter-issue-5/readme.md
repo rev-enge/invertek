@@ -18,5 +18,4 @@ NOTE: The 3-phase bridge is not on this board, its on the power board where
 
 # Utilities used to create the drawings
 
-TODO: The schematic diagram is made with KiCad 6.0.0
-
+The schematic diagram is made with KiCad 6.0.0
