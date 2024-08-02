@@ -17,7 +17,7 @@ The boards are notorios for disconnected via's. So probably on one of the
  multiplexing).
 So measure if the pin from the display is connected to the right fet (D) pin.
 
-## Sympthom: A push button do not work.
+## Sympthom: A push button does not work.
 
 The buttons switches tend to get bad over time. I have seen complete open
  switch contacts as well as contact resistances over a few hundred ohms.
