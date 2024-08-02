@@ -16,5 +16,4 @@ The external interface connector has 11 pins.
 
 # Utilities used to create the drawings
 
-The schematic diagram is made with KiCad 6.0.0
-
+The schematic diagram is made with KiCad 6.0.11
