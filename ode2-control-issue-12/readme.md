@@ -17,3 +17,7 @@ The external interface connector has 11 pins.
 # Utilities used to create the drawings
 
 The schematic diagram is made with KiCad 6.0.11
+
+The board-outline drawing is made with Microsoft Visio 2003 but can be opened
+ with LibreOffice Draw.
+ 
