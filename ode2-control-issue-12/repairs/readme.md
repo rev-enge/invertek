@@ -29,4 +29,9 @@ The original switch actuator is orange, the above is pink (=260 gf). Probably
  the original has a small difference in the pressing force or it is just
  another brand using different colors.
 
+## Sympthom: All push button does not work.
+
+Probably the signal to CPU U2 pin 48 is diconnected.
+It is the common line of the 3 BAS28 diodes.
+
 ### Back to main page [main](../../readme.md)
