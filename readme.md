@@ -27,7 +27,7 @@ Here a list of drives and its type and the used variants of the boards.
 |-----------------------|--------|--------|----------|----------|------------|----------|
 | ODE2-2-24400-3KA42    | 4kW    | FLT2-5 | HVPWR2-8 | TERM2-5  | E2-CTRL-12 | N.A.     |
 | ODE2-2-24400-3KA42    | 4kW    | FLT2-7 | HVPWR2-8 | TERM2-4  | E2-CTRL-12 | N.A.     |
-| ODP2-2-24400-3KF42-SN | 4kW    | FLT2-3 | HVPWR2-8 | TERM2-6  | P2-CTRL-7  | OPTION-7 |
+| ODP2-2-24400-3KF42-SN | 4kW    | FLT2-3 | HVPWR2-8 | TERM2-6  | P2-CTRL-9  | OPTION-7 |
 
 N.A. = Not applicable.
 

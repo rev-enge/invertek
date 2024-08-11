@@ -1,6 +1,6 @@
 # Identification of the board
 
-ODE2 CONTROL ISSUE 12
+ODP2 SMALL DRIVE CONTROL BOARD ISSUE 9
 
 # Description
 
@@ -8,7 +8,7 @@ This board is the display and interface control board.
 
 It has a 6-digit 7-segment display (red) and 5 buttons.
 
-The external interface connector has 11 pins.
+The external interface connector has 13 pins.
 
 # Repair hints
 
