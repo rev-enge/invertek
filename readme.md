@@ -5,7 +5,7 @@ Reverse engineered (parts) of the Invertek frequency drive(s).
 The drive consist of different printed circuit board assemblies (PCBA)
  which are all soldered together.
 
-# Drive types and bords
+# Drive types and boards
 
 Each type of drive is composed of at least 4 PCBAs. Some of these boards
  are common to a number of drives.
