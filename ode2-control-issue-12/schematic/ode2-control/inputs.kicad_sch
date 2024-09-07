@@ -8,7 +8,7 @@
     (title "ODE2 CONTROL")
     (date "2024-08-20")
     (rev "ISSUE 12")
-    (company "Reverse engineered, copyright Invertek Drives.com")
+    (company "Reverse engineered, design copyright Invertek Drives.com")
     (comment 1 "Digital and analog input circuits")
   )
 
