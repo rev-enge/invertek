@@ -25,6 +25,7 @@ Here a list of drives and its type and the used variants of the boards.
 
 | TYPE                  | RATING | FILTER | HV-POWER | TERMINAL | CONTROL    | OPTION   |
 |-----------------------|--------|--------|----------|----------|------------|----------|
+| ODE2-2-24150-3KA42    | 1.5kW  | FLT2-5 | HVPWR2-8 | TERM2-6  | E2-CTRL-12 | N.A.     |
 | ODE2-2-24400-3KA42    | 4kW    | FLT2-5 | HVPWR2-8 | TERM2-5  | E2-CTRL-12 | N.A.     |
 | ODE2-2-24400-3KA42    | 4kW    | FLT2-7 | HVPWR2-8 | TERM2-4  | E2-CTRL-12 | N.A.     |
 | ODP2-2-24400-3KF42-SN | 4kW    | FLT2-3 | HVPWR2-8 | TERM2-6  | P2-CTRL-9  | OPTION-7 |
@@ -36,10 +37,11 @@ N.A. = Not applicable.
 Optidrive E2 and P2 PCB assemblies:
 
 * E2-CTRL-12 => [ODE2 CONTROL ISSUE 12](ode2-control-issue-12/readme.md)
-* FLT2-3 => [E2/P2 S2 3-ph FILTER ISSUE 3](e2-p2-s2-filter-issue-3/readme.md)
+* FLT2-3 => [E2/P2 S2 3-ph FILTER ISSUE 3](todo.txt) TODO
 * FLT2-5 => [E2/P2 S2 3-ph FILTER ISSUE 5](e2-p2-s2-filter-issue-5/readme.md)
 * FLT2-7 => [E2/P2 S2 3-ph FILTER ISSUE 7](e2-p2-s2-filter-issue-5/readme.md)
 * HVPWR2-8 => [ODE2 S2 HV POWER ISSUE 8](ode2-s2-hv-power-issue-8/readme.md)
+* TERM2-4 => [ODE2 S2 TERMINAL BOARD ISSUE 4](todo.txt) TODO
 * TERM2-5 => [ODE2 S2 TERMINAL BOARD ISSUE 5](todo.txt) TODO
 * TERM2-6 => [ODE2 S2 TERMINAL BOARD ISSUE 6](todo.txt) TODO
 * P2-CTRL-9 => [P2 SMALL DRIVE CONTROL BOARD ISSUE 9](odp2-control-issue-9/readme.md)
