@@ -321,7 +321,7 @@
       (reference "R29") (unit 1) (value "39k") (footprint "")
     )
     (path "/5c8875e4-33fb-44aa-87e3-5125fee57402/b1b3e206-70dc-4cdb-9e2d-82cc105476db"
-      (reference "R32") (unit 1) (value "470k") (footprint "")
+      (reference "R32") (unit 1) (value "47k") (footprint "")
     )
     (path "/5c8875e4-33fb-44aa-87e3-5125fee57402/931dae72-3f6d-460b-a277-acd8e4652dab"
       (reference "R35") (unit 1) (value "27k") (footprint "")
