@@ -260,7 +260,7 @@
     (path "/5c8875e4-33fb-44aa-87e3-5125fee57402/a44b714a-a943-427e-8430-a7ee5bf2e4a5"
       (reference "IC2") (unit 1) (value "MC33072") (footprint "")
     )
-    (path "/5c8875e4-33fb-44aa-87e3-5125fee57402/fc24170d-a975-4034-9a0d-ad32d13bda65"
+    (path "/5c8875e4-33fb-44aa-87e3-5125fee57402/c5a454cb-69fb-4752-a64e-3937a4fadae9"
       (reference "IC2") (unit 2) (value "MC33072") (footprint "")
     )
     (path "/5c8875e4-33fb-44aa-87e3-5125fee57402/ee2c864d-c0ca-40ed-ac4f-6afba86915f5"
