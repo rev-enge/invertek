@@ -328,6 +328,10 @@
     [
       "5c8875e4-33fb-44aa-87e3-5125fee57402",
       "odp2-analog-out"
+    ],
+    [
+      "1dcf8cdc-160b-4868-b9be-498f1fe28e6a",
+      "odp2-cpu"
     ]
   ],
   "text_variables": {}
